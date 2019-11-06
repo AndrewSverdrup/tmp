@@ -6,4 +6,4 @@ An image
 More content.
 
 An image url
-![NT](https://community.next.tech/uploads/default/original/1X/1d068245498bb7f1bfd862066558b834aa898d79.png)
+![NT](https://cdn.filestackcontent.com/mRGrfbE4RFCIQfD2WKGi)
