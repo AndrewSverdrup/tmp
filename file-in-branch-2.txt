@@ -2,4 +2,4 @@ file contents..
 
 ![](https://cdn.filestackcontent.com/fIhUXBQxW4TznZLYd6Aq)
 
-![](./golf_img.jpg)
+![](/golf_img.jpg)
